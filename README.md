@@ -15,7 +15,7 @@ A comprehensive database system for managing library operations in a Kenyan high
 - **Fines**: Penalties for late returns or damages
 
 ## Entity-Relationship Diagram
-![Library ER Diagram](library_erd.png) *(See below for generation instructions)*
+See the attached Image
 
 ## Key Features
 - Form/Stream tracking aligned with Kenyan secondary system
@@ -24,9 +24,4 @@ A comprehensive database system for managing library operations in a Kenyan high
 - KNEC/KICD relevant book categorization
 - Bilingual support (English/Kiswahili)
 
-## Setup Instructions
 
-1. **Database Creation**:
-```sql
-CREATE DATABASE high_school_library;
-USE high_school_library;
